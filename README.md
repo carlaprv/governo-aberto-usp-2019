@@ -1,4 +1,4 @@
-# Governo Aberto USP 2019
+# Governo Aberto USP 2019 - LGBTFobia
 
 Repositório para armazenar solicitações de dados sobre LGBTFobia aos órgãos públicos, assim como as respostas e dados (se houver).
 
@@ -8,8 +8,12 @@ Repositório para armazenar solicitações de dados sobre LGBTFobia aos órgãos
 |-------------------------------------------|-------------------------------------------------------------------|
 | Departamento de Polícia Federal           | Informação Inexistente                                            |
 | IBGE                                      | Informação Inexistente                                            |
-| Ministério da Saúde                       | Houve resposta de um documento (.docx) com informações compiladas |
 | Ministério da Justiça                     | Informação Inexistente                                            |
+| Serviço Federal de Processamento de Dados | Informação Inexistente                                            |
+| Ministério da Saúde                       | Houve resposta de um documento (.docx) com informações compiladas |
 | Ministério da Mulher                      | Houve resposta com arquivo (.xlsx) de casos de LGBTFobia          |
+<<<<<<< HEAD
 | Serviço Federal de Processamento de Dados | Informação Inexistente                                            |
 | Câmara Municipal de São Paulo             | Houve resposta com arquivo (.pdf)                                 |
+=======
+>>>>>>> 6efc466c74855428353dd81a9b4755b475810d26
